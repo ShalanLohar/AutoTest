@@ -16,7 +16,7 @@ public class LoginPage {
       driver.FindElement(By.Name("login")).Click();
       Assert.True(driver.FindElement(By.LinkText("Log out")).Displayed);
 
-     
+     driver.Quit();
       
     
     
