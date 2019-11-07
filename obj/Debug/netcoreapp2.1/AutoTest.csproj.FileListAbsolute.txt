@@ -1,0 +1,16 @@
+F:\AutoTest\bin\Debug\netcoreapp2.1\testhost.exe
+F:\AutoTest\bin\Debug\netcoreapp2.1\testhost.dll
+F:\AutoTest\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+F:\AutoTest\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+F:\AutoTest\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+F:\AutoTest\bin\Debug\netcoreapp2.1\AutoTest.deps.json
+F:\AutoTest\bin\Debug\netcoreapp2.1\AutoTest.runtimeconfig.json
+F:\AutoTest\bin\Debug\netcoreapp2.1\AutoTest.runtimeconfig.dev.json
+F:\AutoTest\bin\Debug\netcoreapp2.1\AutoTest.dll
+F:\AutoTest\bin\Debug\netcoreapp2.1\AutoTest.pdb
+F:\AutoTest\obj\Debug\netcoreapp2.1\AutoTest.csprojAssemblyReference.cache
+F:\AutoTest\obj\Debug\netcoreapp2.1\AutoTest.csproj.CoreCompileInputs.cache
+F:\AutoTest\obj\Debug\netcoreapp2.1\AutoTest.AssemblyInfoInputs.cache
+F:\AutoTest\obj\Debug\netcoreapp2.1\AutoTest.AssemblyInfo.cs
+F:\AutoTest\obj\Debug\netcoreapp2.1\AutoTest.dll
+F:\AutoTest\obj\Debug\netcoreapp2.1\AutoTest.pdb
